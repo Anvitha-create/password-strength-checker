@@ -1,10 +1,10 @@
-## 🔐 Fun Password Strength Checker 🎉
+# 🔐 Fun Password Strength Checker 🎉
 
 A fun and interactive Python tool that checks how strong your password is — with emojis, clear feedback, and continuous testing until you type `exit` to quit.
 
 ---
 
-# ✨ Features
+### ✨ Features
 
 - ✅ Checks if your password includes:
   - Minimum 8 characters
@@ -17,14 +17,15 @@ A fun and interactive Python tool that checks how strong your password is — wi
 
 ---
 
-# 🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 - Python 3
 - `re` (Regular Expression module)
 
 ---
 
-#💡 Sample Output  
+### 💡 Sample Output
+
 **Output Screenshot**
 
-![Output Screenshot](IMG_20250609_125430.jpg.jpg)
+![Output Screenshot](output_screenshot.jpg)
