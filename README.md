@@ -1,20 +1,22 @@
-# Password Strength Checker 🔐
+# 🔐 Fun Password Strength Checker 🎉
 
-This is a simple Python project that checks how strong a given password is based on:
-
-- Length (minimum 8 characters)
-- Includes at least one number
-- Includes at least one uppercase letter
-- Includes at least one lowercase letter
-- Includes at least one special character
-
-### How to Run
-
-1. Copy the code from `main.py`
-2. Paste it in Python IDE like Replit or any Python app
-3. Enter a password
-4. It will show you if the password is Strong, Moderate or Weak
+A fun and interactive Python tool that checks how strong your password is — with emojis, clear feedback, and continuous testing until you type `exit` to quit.
 
 ---
 
-Made with 💙 by Anvitha Shetty
+## ✨ Features
+
+- Checks if your password has:
+  - Minimum 8 characters
+  - At least one number
+  - At least one uppercase letter
+  - At least one lowercase letter
+  - At least one special character
+- Provides fun, emoji-filled feedback to guide you
+- Keeps asking for passwords until you type `exit`
+
+---
+
+#💡 Sample Output
+![Password Strength Checker Output]
+(output.jpg)
