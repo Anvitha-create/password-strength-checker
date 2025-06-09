@@ -1,4 +1,4 @@
-# 🔐 Fun Password Strength Checker 🎉
+# 🔐 Fun Password Strength Checker 
 
 A fun and interactive Python tool that checks how strong your password is — with emojis, clear feedback, and continuous testing until you type `exit` to quit.
 
