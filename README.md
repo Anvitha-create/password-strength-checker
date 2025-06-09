@@ -4,7 +4,7 @@ A fun and interactive Python tool that checks how strong your password is — wi
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - Checks if your password has:
   - Minimum 8 characters
@@ -18,5 +18,4 @@ A fun and interactive Python tool that checks how strong your password is — wi
 ---
 
 #💡 Sample Output
-![Password Strength Checker Output]
 (output.jpg)
