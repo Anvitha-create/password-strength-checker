@@ -15,6 +15,11 @@ A fun and interactive Python tool that checks how strong your password is — wi
 - Provides fun, emoji-filled feedback to guide you
 - Keeps asking for passwords until you type `exit`
 
+
+# 🛠️ Technologies Used
+- Python 3
+- re (Regular Expression module)
+
 ---
 
 #💡 Sample Output
