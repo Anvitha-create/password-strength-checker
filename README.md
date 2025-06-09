@@ -4,23 +4,27 @@ A fun and interactive Python tool that checks how strong your password is — wi
 
 ---
 
-# ✨ Features
+#✨ Features
 
-- Checks if your password has:
+- ✅ Checks if your password includes:
   - Minimum 8 characters
-  - At least one number
-  - At least one uppercase letter
-  - At least one lowercase letter
-  - At least one special character
-- Provides fun, emoji-filled feedback to guide you
-- Keeps asking for passwords until you type `exit`
-
-
-# 🛠️ Technologies Used
-- Python 3
-- re (Regular Expression module)
+  - At least one number 🔢
+  - At least one uppercase letter 🔠
+  - At least one lowercase letter 🔡
+  - At least one special character ✨
+- 🤩 Provides fun, emoji-filled feedback to guide you
+- 🔁 Keeps asking for passwords until you type `exit`
 
 ---
 
+# 🛠️ Technologies Used
+
+- Python 3
+- `re` (Regular Expression module)
+
+---
 #💡 Sample Output
 ![Output Screenshot](IMG_20250609_125430.jpg)
+
+---
+
