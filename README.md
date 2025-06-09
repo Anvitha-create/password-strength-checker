@@ -18,4 +18,4 @@ A fun and interactive Python tool that checks how strong your password is — wi
 ---
 
 #💡 Sample Output
-output_ss.jpg
+outputs_screenshot.jpg
